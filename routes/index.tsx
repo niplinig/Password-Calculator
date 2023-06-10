@@ -4,11 +4,6 @@ import {
   MdAccountCircle,
   MdAddPhotoAlternate,
 } from "https://deno.land/x/react_icons@0.2.3/md/mod.ts";
-import {
-  FluentProvider,
-  webLightTheme,
-  Select
-} from "npm:@fluentui/react-components";
 
 export default function Home() {
   return (
